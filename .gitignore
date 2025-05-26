@@ -1,0 +1,9 @@
+# Node.js
+frontend/node_modules
+backend/node_modules
+
+# Laravel
+backend/vendor
+backend/.env
+
+
